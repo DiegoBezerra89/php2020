@@ -6,7 +6,7 @@
   $nome = "Diego";
   
   //comentario
-  echo$nome;
+  echo"<h1>" . $nome . "</h1>";
 
   //exit; //para a execução do código
   

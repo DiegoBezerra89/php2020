@@ -17,7 +17,7 @@
   public 'timezone_type' => int 3
   public 'timezone' => string 'UTC' (length=3)
   */
-  $arquivo = fopen("exemplo_03.php", "r"); //file open
+  $arquivo = fopen("exemplo_03.php", "r"); //file open, em read mode
   //var_dump($arquivo);
   //resource(3, stream)
   $null = NULL;
